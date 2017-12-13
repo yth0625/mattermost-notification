@@ -1,0 +1,21 @@
+{
+  "name": "mattermost-notification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yth0625/mattermost-notification.git",
+  "author": "yth0625 <yth0625@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^21.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "after-load": "^1.0.4",
+    "cross-env": "^5.1.1",
+    "fetch": "^1.1.0",
+    "jsdiff": "^1.1.1",
+    "node-fetch": "^1.7.3"
+  }
+}
